@@ -25,6 +25,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='Parse_instagram_walkthough_part_1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='Parse_instagram_walkthough_part_1_persistence.gif' title='Additional Video' width='' alt='Additional Video' />
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
