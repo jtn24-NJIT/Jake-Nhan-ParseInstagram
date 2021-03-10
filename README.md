@@ -31,7 +31,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='Parse_instagram_walkthough_part_2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='Parse_instagram_walkthough_part_2_Update.gif.gif' title='Update Posts' width='' alt='Video Walkthrough' />
+<img src='Parse_instagram_walkthough_part_2_Update.gif' title='Update Posts' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
